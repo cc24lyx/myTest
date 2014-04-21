@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  mytest
 //
-//  Created by 陈晨 on 14-4-21.
+//  Created by 陈晨666 on 14-4-21.
 //  Copyright (c) 2014年 chenc. All rights reserved.
 //
 
